@@ -5,6 +5,7 @@ Problem Statement : The data is related with direct marketing campaigns (phone c
 
 
 Approach 
+
 Performed exploratory data analysis with to get insights from the data to observe following things:-
 
 The dataset was imbalanced, where the number of negative classes is close to 8 times the number of positive classes. The customers who had a job of admin had the highest rate of subscribing a term deposit, but they were also the highest when it comes to not subscribing. This is simply because we have more customers working as admin than any other profession. Majority of the customers were married. Followed by Single, divorced and unknown. Majority of the customers had a housing loan.
